@@ -50,13 +50,6 @@
             ],
             "version": "==0.4.8"
         },
-        "pycrypto": {
-            "hashes": [
-                "sha256:f49d8aea2d7d65db9906c7d3b8b3a07fcae8387cf5cb06a7510383e211902d39"
-            ],
-            "index": "pypi",
-            "version": "==2.4"
-        },
         "pyjwt": {
             "hashes": [
                 "sha256:2d30be6375be006a6fec531ba15ec9a7cf3ac88fd6ea3caa2b6f86a84c372acc",
@@ -80,12 +73,6 @@
             ],
             "index": "pypi",
             "version": "==3.4"
-        },
-        "sgmllib3k": {
-            "hashes": [
-                "sha256:7868fb1c8bfa764c1ac563d3cf369c381d1325d36124933a726f29fcdaa812e9"
-            ],
-            "version": "==1.0.0"
         }
     },
     "develop": {}
